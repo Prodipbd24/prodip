@@ -1,0 +1,147 @@
+.head{
+
+  overflow: hidden;
+background-color: green;
+height: 40px;
+width: 960px;
+margin: 0 auto;
+}
+.f1{float: right;
+  padding: 15px 70px;;
+  font-size: 10px;
+}
+.f1 a{
+  color: white;
+  text-decoration: none;
+  padding: 5px 5px;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  margin-left: 20px;
+  background-color:red;
+}
+.ad{
+  font-size: 10px;
+  color: white;
+
+  float: left;
+  margin-left:50px;
+}
+.f2{font-size: 10px;
+  text-align: center;
+  margin: 0 auto;
+  background-color: green;
+  width: 960px;
+  height: 40px;
+  overflow: hidden;
+}
+.menu{
+  width: 960px;
+  margin: 0 auto;
+background-color:;
+overflow:hidden;
+}
+.menu  a{
+text-decoration: none;
+font-size: 20px;
+margin-left: 80px;
+padding: 0px 1px;
+color: black;
+border-bottom-right-radius: 8px;
+border-bottom-left-radius: 8px;
+}
+.menu a:hover{
+  background-color: green;
+  border: 1px solid green;
+  border-top: 10px;
+}
+.add{
+  width: 960px;
+  margin: 6px auto;
+overflow:hidden;
+}
+.add a{
+  border: 1px solid pink;
+  background-color: pink;
+ width:100%;
+ text-align: center;
+ margin-left: 0px;
+ border-radius: 8px;
+ text-decoration: none;
+ font-size: 30px;
+}
+.add a:hover{
+  background: lightgray;
+  border:1px solid lightgray;
+}
+.list{
+  width: 960%;
+  margin: 0 auto;
+overflow:hidden;
+}
+.list h1{
+  border: 1px solid  #4267B2;
+  background-color:  #4267B2;
+ width:200px;
+ text-align: center;
+ margin-left: 0px;
+ border-radius: 8px;
+ text-decoration: none;
+ font-size: 30px;
+}
+.del{
+  width: 960px;
+  margin: 0px auto;
+overflow:hidden;
+}
+.del h1{
+  border: 1px solid  #4267B2;
+  background-color:  #4267B2;
+ width:200px;
+ text-align: center;
+ margin-left: 0px;
+ border-radius: 10px;
+}
+.footer h1{
+  width: 960px;
+  margin:  0px auto;
+height: 15px;
+background: green;
+text-align: center;
+font-size: 10px;
+
+}
+.all{
+  border:1px solid green;
+  width: 960px;
+  margin: 0 auto;
+}
+#tb1{
+  overflow: hidden;
+  text-align: center;
+  width: 960px;
+  margin: 0 auto;
+}
+table {
+  font-family: sans-serif;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 71%;
+  border: 1px solid #ddd;
+  font-size: 16px;
+}
+th, td {
+  text-align: left;
+  padding: 5px;
+  text-align: center;
+}
+tr:nth-child(even) {
+  background-color: #ADD8E6;
+}
+tr:nth-child(odd){
+  background-color: #E9EBEE;
+  color:#000000;
+}
+tr:nth-child(1){
+  background-color: #4267B2;
+  color:#FFFFFF
+}
